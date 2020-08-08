@@ -12,4 +12,3 @@ Test with
 ```
 bazel test tests:tests
 ```
-The file "TwoSum.cpp" has another two methods for the question. 
